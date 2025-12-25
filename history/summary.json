@@ -6,17 +6,17 @@
     "slug": "diggingforce",
     "status": "up",
     "uptime": "98.58%",
-    "uptimeDay": "76.68%",
-    "uptimeWeek": "94.48%",
-    "uptimeMonth": "97.27%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "94.62%",
+    "uptimeMonth": "97.30%",
     "uptimeYear": "98.58%",
-    "time": 2482,
-    "timeDay": 3619,
-    "timeWeek": 2575,
-    "timeMonth": 2766,
-    "timeYear": 2482,
+    "time": 2479,
+    "timeDay": 1069,
+    "timeWeek": 2328,
+    "timeMonth": 2579,
+    "timeYear": 2479,
     "dailyMinutesDown": {
-      "2025-12-24": 44,
+      "2025-12-24": 31,
       "2025-12-23": 295,
       "2025-12-22": 34,
       "2025-12-21": 26,
@@ -85,7 +85,8 @@
       "2025-09-27": 20,
       "2025-09-25": 75,
       "2025-09-23": 16,
-      "2025-09-22": 50
+      "2025-09-22": 50,
+      "2025-09-20": 20
     }
   }
 ]
