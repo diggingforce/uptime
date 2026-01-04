@@ -4,19 +4,19 @@
     "url": "https://diggingforce.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/diggingforce.xyz.ico",
     "slug": "diggingforce",
-    "status": "down",
+    "status": "up",
     "uptime": "98.66%",
-    "uptimeDay": "96.23%",
-    "uptimeWeek": "98.57%",
-    "uptimeMonth": "97.23%",
+    "uptimeDay": "93.38%",
+    "uptimeWeek": "98.34%",
+    "uptimeMonth": "97.14%",
     "uptimeYear": "98.66%",
-    "time": 2471,
-    "timeDay": 1709,
-    "timeWeek": 2099,
-    "timeMonth": 2500,
-    "timeYear": 2471,
+    "time": 2469,
+    "timeDay": 1692,
+    "timeWeek": 2106,
+    "timeMonth": 2491,
+    "timeYear": 2469,
     "dailyMinutesDown": {
-      "2026-01-04": 30,
+      "2026-01-04": 71,
       "2026-01-03": 24,
       "2026-01-01": 15,
       "2025-12-31": 41,
@@ -87,7 +87,7 @@
       "2025-10-04": 37,
       "2025-10-03": 26,
       "2025-10-02": 66,
-      "2025-10-01": 65
+      "2025-10-01": 20
     }
   }
 ]
