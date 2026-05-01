@@ -4,7 +4,7 @@ repo: uptime # The name of this repository
 
 sites:
   - name: huraira
-    url: https://huraira.net
+    url: https://www.huraira.net
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
