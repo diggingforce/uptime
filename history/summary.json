@@ -1,8 +1,8 @@
 [
   {
     "name": "huraira",
-    "url": "https://huraira.net",
-    "icon": "https://icons.duckduckgo.com/ip3/huraira.net.ico",
+    "url": "https://www.huraira.net",
+    "icon": "https://icons.duckduckgo.com/ip3/www.huraira.net.ico",
     "slug": "huraira",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 552,
-    "timeDay": 552,
-    "timeWeek": 552,
-    "timeMonth": 552,
-    "timeYear": 552,
+    "time": 365,
+    "timeDay": 365,
+    "timeWeek": 365,
+    "timeMonth": 365,
+    "timeYear": 365,
     "dailyMinutesDown": {}
   }
 ]
