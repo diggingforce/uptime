@@ -4,17 +4,19 @@
     "url": "https://www.huraira.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.huraira.net.ico",
     "slug": "huraira",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 392,
-    "timeDay": 1319,
-    "timeWeek": 905,
-    "timeMonth": 521,
-    "timeYear": 392,
-    "dailyMinutesDown": {}
+    "time": 390,
+    "timeDay": 677,
+    "timeWeek": 796,
+    "timeMonth": 506,
+    "timeYear": 390,
+    "dailyMinutesDown": {
+      "2026-11-11": 0
+    }
   }
 ]
