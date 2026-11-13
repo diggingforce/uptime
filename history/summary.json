@@ -6,15 +6,15 @@
     "slug": "huraira",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "35.48%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "88.67%",
     "uptimeMonth": "97.39%",
     "uptimeYear": "99.59%",
-    "time": 398,
-    "timeDay": 1150,
-    "timeWeek": 932,
-    "timeMonth": 542,
-    "timeYear": 398,
+    "time": 403,
+    "timeDay": 1423,
+    "timeWeek": 937,
+    "timeMonth": 575,
+    "timeYear": 403,
     "dailyMinutesDown": {
       "2026-11-11": 1142
     }
