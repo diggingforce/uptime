@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.huraira.net.ico",
     "slug": "huraira",
     "status": "up",
-    "uptime": "99.59%",
+    "uptime": "99.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "88.67%",
     "uptimeMonth": "97.39%",
-    "uptimeYear": "99.59%",
-    "time": 403,
-    "timeDay": 1423,
-    "timeWeek": 937,
-    "timeMonth": 575,
-    "timeYear": 403,
+    "uptimeYear": "99.60%",
+    "time": 407,
+    "timeDay": 1297,
+    "timeWeek": 1063,
+    "timeMonth": 599,
+    "timeYear": 407,
     "dailyMinutesDown": {
       "2026-11-11": 1142
     }
